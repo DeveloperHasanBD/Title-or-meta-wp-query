@@ -1,4 +1,4 @@
-// This code need to use on custom search.php
+// This code need to use on custom search.php // page template //
 
 $search_val = $_GET['search_val'] ?? '';
 $args = [
